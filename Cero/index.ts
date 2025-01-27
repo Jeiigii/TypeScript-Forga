@@ -90,6 +90,6 @@ Aplica esta observación con outro número
 
 let variable1 : number = 4 **2;
 let variable2 : number= 3**3;
-console.log('El valor de la variable1: ',variable1);
+console.log('El valor de la variable1: ',variable);
 console.log('El valor de la variable2 es: ',variable2);
 
